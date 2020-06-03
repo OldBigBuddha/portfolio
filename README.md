@@ -1,68 +1,137 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# OldBigBuddha's Portfolio
 
-## Available Scripts
+僕のポートフォリオです。どんな経歴があるかとか、どういう成果物があるかみたいなことをまとめられたらなと思っています。
 
-In the project directory, you can run:
+Twitter: [＠OldBigBuddha](https://twitter.com/OldBigBuddha)
 
-### `yarn start`
+## 載せることメモ（すべてを載せる必要はない）
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Profile
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- 名前（フルネーム・ハンドルネーム）
+- 生年月日
+- 所在地
+- 所属
+  - N高等学校
+  - GDG Kyoto
+  - 学生LT
+  - Proglove
+- 連絡先
+  - Twitter
+  - メールアドレス
 
-### `yarn test`
+### License
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 基本情報技術者（2019年秋期）
 
-### `yarn build`
+### Skill
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+| 星の数 | 習熟度 |
+| ----- | ----- |
+| ★★★★  | 業務で使ったことがある|
+| ★★★☆  | 趣味で使う（得意な方） |
+| ★★☆☆  | 趣味で使う（知識が乏しい） |
+| ★☆☆☆  | 触ったことがある |
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- Android（★★★☆）
+- Java（★★★☆）
+- Kotlin（★★★☆）
+- JavaScript（★★★☆）
+- Nodejs（★★★☆）
+- React（★★☆☆）
+- HTML5/CSS3（★★★☆）
+- Git（★★★☆）
+- Python3（★★★☆）
+- Linux（★★★☆）
+- GSuite（★★★☆）
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Works
 
-### `yarn eject`
+過去に作った成果物を列挙する。今だとブログぐらいしかないかも…
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Practice
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+チュートリアルをそのまま実装したやつを載せる。どこで何を学んだかをわかるようにする。チュートリアルを経由して具体的に何を得たかを書いたブログ記事も合わせて載せたい。
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Talk
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+LT などで登壇した実績を載せる。
 
-## Learn More
+- Google Dev Fest Kyoto 2017
+- 京都 Devカフェ 第1回
+- OSC Kyoto 2019 招待講演
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Staff
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+過去にスタッフとして参加したイベントを列挙する。
 
-### Code Splitting
+- iOSDC 2019 当日スタッフ
+- Kotlin Fest 2019 当日スタッフ
+- Google Dev Fest Kyoto 2019 コアスタッフ
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## Favorite
 
-### Analyzing the Bundle Size
+興味があること、好きなこと。
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- Game
+  - Rainbow Six Siege(PC)
+  - MineCraft
+  - The Crew
+  - STATIONFlow
+  - 麻雀
+  - Tetris
+- Music
+  - VOCALOID
+  - EDM
+- ICT教育
+- 発達障害
+- LGBTQ+
+- フィンランド
+- DIY
+- セキュリティ
+- ネットワーク
+- CTF
+- YouTuber
+  - FOXRABIT
+  - 熊五郎兄さん
+  - ゆゆうた
+  - 楠栞桜
+  - RebellionUC
+  - ガナイケTV
+  - えふやん
+  - Primitive Technology
 
-### Making a Progressive Web App
+### Tools
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+よく使うツールなど。
 
-### Advanced Configuration
+- Zsh
+  - Powerlevel10k
+- iTerm2
+- Hub
+- VS Code
+- Alfred
+- Google 日本語入力（Fctix/Mozc）
+- Discord
+- Slack
+- Chrome
+- GSuite
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### Gadget
 
-### Deployment
+- MacBook Pro 13inch 2019
+- 自作PC
+  - スペック詳細は後々
+- HUAWEI Nova lite 2
+- iPhone SE
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+### 回線
 
-### `yarn build` fails to minify
+- Nuro光（2Gプラン）
+- LINE Mobile(Softbank)
+- Rocket Mobile(Docomo)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### 他に書きたいこと
+
+- フィンランドへ留学に行ったこと
+- 小児性脳性麻痺の後遺症が残っていること
