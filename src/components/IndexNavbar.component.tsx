@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const IndexNavbar = () => {
+const IndexNavbar: React.FC = () => {
   return(
     <nav id="index--nav">
       <ul>

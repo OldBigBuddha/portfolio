@@ -1,7 +1,9 @@
 import React from "react";
 
-export default () => {
+const Profile: React.FC = () => {
   return(
     <h2>Profile page</h2>
   )
 }
+
+export default Profile;
