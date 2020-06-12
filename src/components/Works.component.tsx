@@ -1,7 +1,9 @@
 import React from "react";
 
-export default () => {
+const Works: React.FC = () => {
   return(
     <h2>Works page</h2>
   )
 }
+
+export default Works;

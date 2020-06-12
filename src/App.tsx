@@ -1,14 +1,14 @@
-import React from 'react';
+import React from "react";
 import {BrowserRouter, Route} from "react-router-dom";
 
-import IndexNavbar from "./components/IndexNavbar.component.js";
-import Profile from "./components/Profile.component.js";
-import Works from './components/Works.component.js';
-import Activities from './components/Activities.component.js';
-import Contact from "./components/Contact.component.js";
+import IndexNavbar from "./components/IndexNavbar.component";
+import Profile from "./components/Profile.component";
+import Works from "./components/Works.component";
+import Activities from "./components/Activities.component";
+import Contact from "./components/Contact.component";
 
-const App = () => {
-  const Index = () => {
+const App: React.FC = () => {
+  const Index: React.FC = () => {
     return (
       <div>
         <h2>Index page</h2>
