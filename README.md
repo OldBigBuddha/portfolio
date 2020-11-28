@@ -22,7 +22,8 @@ Twitter: [＠OldBigBuddha](https://twitter.com/OldBigBuddha)
 
 ### License
 
-- 基本情報技術者（2019年秋期）
+- 令和元年　11月20日（2019年秋期）基本情報技術者
+- 令和2年　9月8日　高等学校卒業程度認定試験
 
 ### Skill
 
@@ -86,11 +87,11 @@ LT などで登壇した実績を載せる。
 - [shibuya.apk #27](https://shibuya-apk.connpass.com/event/94402/) (2018/08/02)
 - フィンランド留学（2018年8月〜2019年6月）
 - N高等学校へ転学
-- [OWASP Kansai × Nagoya『セキュアなWordPressを構築しよう！』](https://owasp-kansai.doorkeeper.jp/events/96274) (2019/09/29)
 - [ML Study Jams by GDG Kyoto](https://gdgkyoto.connpass.com/event/144498/) (2019/09/01)
 - [DevFest Kyoto 2019](https://gdgkyoto.connpass.com/event/144498/) (2019/09/21)
-- [【京都】LINE Developer Meetup #57](https://line.connpass.com/event/149486/) (2019/10/24)
+- [OWASP Kansai × Nagoya『セキュアなWordPressを構築しよう！』](https://owasp-kansai.doorkeeper.jp/events/96274) (2019/09/29)
 - [セキュリティ・ミニキャンプ 専門講座 in 愛知 2019](https://www.security-camp.or.jp/minicamp/aichi2019.html) (2019/10/05)
+- [【京都】LINE Developer Meetup #57](https://line.connpass.com/event/149486/) (2019/10/24)
 - [CA.app #1 ~大阪編~](https://cyberagent.connpass.com/event/148116/) (2019/11/01)
 - [【大阪】Android Dev Summit2019報告会](https://gdgosaka.connpass.com/event/148812/) (2019/11/07)
 - [TFUG KANSAI TF2.0ハンズオン](https://tfug-kansai.connpass.com/event/161243/) (2020/01/18)
@@ -104,6 +105,7 @@ LT などで登壇した実績を載せる。
 - iOSDC 2019 当日スタッフ
 - Kotlin Fest 2019 当日スタッフ
 - Google Dev Fest Kyoto 2019 コアスタッフ
+― Google Dev Fest 2020 co-Organizer（GDG Kyoto）
 
 ## Favorite
 
@@ -116,6 +118,9 @@ LT などで登壇した実績を載せる。
   - STATIONFlow
   - 麻雀
   - Tetris
+  - Fate/GrandOrder
+  - ハニプレ
+  - プロセカ
 - Music
   - VOCALOID
   - EDM
@@ -129,13 +134,15 @@ LT などで登壇した実績を載せる。
 - CTF
 - YouTuber
   - FOXRABIT
-  - 熊五郎兄さん
-  - ゆゆうた
-  - 楠栞桜
   - RebellionUC
   - ガナイケTV
   - えふやん
   - Primitive Technology
+- Vtuber
+  - にじさんじ
+  - ホロライブ
+  - あにまーれ
+  - 個人勢も！
 
 ### Tools
 
@@ -144,7 +151,7 @@ LT などで登壇した実績を載せる。
 - Zsh
   - Powerlevel10k
 - iTerm2
-- Hub
+- GitHub CLI
 - VS Code
 - Alfred
 - Google 日本語入力（Fctix/Mozc）
